@@ -6,7 +6,7 @@ Je suis Nadine, passionnée par le développement web et en pleine formation pou
 ## Intérêts
 Je m'intéresse à de nombreux domaines du développement web, notamment la conception d'interfaces utilisateur, le développement back-end, et la création d'applications web dynamiques.
 
-## Apprentissage en cours
+## Apprentissage 
 Actuellement, je suis en train d'apprendre plusieurs technologies essentielles pour devenir une développeuse web full stack compétente, y compris :
 - HTML, CSS et JavaScript pour le développement front-end.
 - phpMyadmin pour le développement back-end.
